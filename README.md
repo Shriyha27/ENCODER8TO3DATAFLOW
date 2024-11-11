@@ -63,7 +63,9 @@ Developed by: RegisterNumber: 24007606
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 
-![Waveform5](https://github.com/user-attachments/assets/acba041c-01f8-4b09-b9a7-3ad5486f4e1a)
+![EXP_5 Waveform](https://github.com/user-attachments/assets/d7233705-7103-4cc1-98a8-752e3169f1f1)
+
+
 
 
 **RESULTS**
